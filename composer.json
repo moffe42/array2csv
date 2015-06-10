@@ -1,0 +1,13 @@
+{
+    "name": "moffe42/array2csv",
+    "description": "Class for converting 2-dimensional arrays to valid CSV",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacob Christiansen",
+            "email": "christiansen.jacob@gmail.com"
+        }
+    ],
+    "require": {}
+}
